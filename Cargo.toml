@@ -1,0 +1,8 @@
+[package]
+authors = ["mistahchris <mistahcummings@gmail.com>"]
+name = "family_matters"
+version = "0.1.0"
+
+[dependencies]
+actix-web = "0.7.13"
+tera = "0.11.19"
